@@ -35,7 +35,7 @@ li a{
     justify-content: space-evenly;
     flex: 1;
 }
-main header{
+main .index-header{
     background: #bbb url('./levi-meir-clancy-3ITXxnoNd-k-unsplash.jpg') center;
     height: 300px;
     margin: 20px 0;
@@ -44,11 +44,17 @@ main header{
     flex-direction: column;
     justify-content: space-around;
 }
-main header p{
+[class^='span']::after{
+    content: " ";
+}
+[class^='span']::before{
+    content: " ";
+}
+main .index-header p{
     font-size: 47px;
     font-family: Caveat, serif;
 }
-main header button{
+main .index-header button{
     border: transparent;
     border-color: transparent;
     outline-color: transparent;
@@ -83,14 +89,42 @@ main header button{
     gap: 20px;
     font-family: 'Itim', serif;
 }
-main header button a{
+main .index-header button a{
     text-decoration: none;
     font-size: 21px;
     margin: 10px;
     color: #abf;
 }
-main header button:hover{
+main .index-header button:hover{
     background: #aaa;
+}
+.about-us-header{
+    display: grid;
+    place-items: center;
+    background: #adb443;
+    height: 71px;
+    text-align: center;
+    font-size: 37px;
+    font-family: Itim, serif;
+    color: #23aa22;
+}
+.about-us-article{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    height: 700px;
+    font-size: 32px;
+    font-family: Itim, serif;
+    margin: 21px 0;
+    background:#fff url('./larm-rmah-AEaTUnvneik-unsplash.jpg') center;
+}
+[class^='about-us-data']{
+    font-weight: 900;
+    color: #23ff22;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 27px;
 }
 footer{
     padding: 12px;
@@ -114,7 +148,10 @@ footer{
     color: #000;
     border-radius: 100%;
     background: #fff;
+    font-size: 47px;
 }
 .accounts .fa-twitter{
-    color: #00f;
+    color: #fff;
+    border-radius: 100%;
+    background: #0bf;
 }

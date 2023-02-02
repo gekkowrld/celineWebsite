@@ -31,3 +31,6 @@ Voila! You are done.
 
 Photo by <a href="https://unsplash.com/@levimeirclancy?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Levi Meir Clancy</a> on <a href="https://unsplash.com/s/photos/refugee-camp?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
+  \[The children in a group photo\]
+  Photo by <a href="https://unsplash.com/@larm?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Larm Rmah</a> on <a href="https://unsplash.com/s/photos/helping-people?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
