@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+nav{
+    padding:30px 12px;
+    background: #000;
+    font-family: 'Itim', cursive;
+    font-size: 33px;
+}
+nav ul{
+    display: flex;
+    justify-content: space-between;
+    flex: 1;
+}
+ul li{
+    list-style-type: none;
+}
+.home-nav{
+    flex: 1;
+    margin-left: 20px;
+}
+li a{
+    text-decoration: none;
+    color: #23aaff;
+}
+.pages{
+    display: flex;
+    justify-content: space-evenly;
+    flex: 1;
+}
+footer{
+    padding: 12px;
+    color: #23aaff;
+    background: rgba(0,0,0,0.8);
+    gap: 10px;
+    display: grid;
+    place-items: center;
+    font-size: 21px;
+    margin-top: auto;
+    font-family: 'Concert One', cursive;
+}
+.accounts{
+    color: #23aaff;
+    display: flex;
+    font-size: 37px;
+    gap: 20px;
+    margin: 12px 0;
+}
+.accounts .fa-github{
+    color: #000;
+    border-radius: 100%;
+    background: #fff;
+}
+.accounts .fa-twitter{
+    color: #00f;
+}
