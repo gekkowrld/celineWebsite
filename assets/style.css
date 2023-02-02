@@ -11,7 +11,7 @@ body{
 nav{
     padding:30px 12px;
     background: #000;
-    font-family: 'Itim', cursive;
+    font-family: 'Itim', serif;
     font-size: 33px;
 }
 nav ul{
@@ -35,6 +35,63 @@ li a{
     justify-content: space-evenly;
     flex: 1;
 }
+main header{
+    background: #bbb url('./levi-meir-clancy-3ITXxnoNd-k-unsplash.jpg') center;
+    height: 300px;
+    margin: 20px 0;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+main header p{
+    font-size: 47px;
+    font-family: Caveat, serif;
+}
+main header button{
+    border: transparent;
+    border-color: transparent;
+    outline-color: transparent;
+    width: 10em;
+    height: 5em;
+    border-radius: 12px;
+    transition: 1s;
+    cursor: pointer;
+    animation:  moving-button 3s infinite both;
+}
+@keyframes moving-button{
+    0%{
+        transform: rotate(0%, 0%);
+    }
+    50%{
+        transform: translate(0%, 20%);
+    }
+    100%{
+        transform: translate(0%, 0%);
+    }
+}
+.text p{
+    color: #0bf;
+}
+.text p a{
+    color: #deb445;
+}
+.buttons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    font-family: 'Itim', serif;
+}
+main header button a{
+    text-decoration: none;
+    font-size: 21px;
+    margin: 10px;
+    color: #abf;
+}
+main header button:hover{
+    background: #aaa;
+}
 footer{
     padding: 12px;
     color: #23aaff;
@@ -44,7 +101,7 @@ footer{
     place-items: center;
     font-size: 21px;
     margin-top: auto;
-    font-family: 'Concert One', cursive;
+    font-family: 'Concert One', serif;
 }
 .accounts{
     color: #23aaff;

@@ -15,13 +15,19 @@ For https
 git clone https://github.com/username/repositoryName.git
 ```
 
-For SSH 
+For SSH
 
 ```bash
 git clone git@github.com:username/repositoryName.git
 ```  
 
-
 Then open the `index.html` using your favourite browser.  
 
 Voila! You are done.
+
+## Attributes
+
+\[The refugee camp photo\]
+
+Photo by <a href="https://unsplash.com/@levimeirclancy?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Levi Meir Clancy</a> on <a href="https://unsplash.com/s/photos/refugee-camp?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
