@@ -27,15 +27,8 @@ Voila! You are done.
 
 ## Attributes
 
-\[The refugee camp photo\]
+![A refugee tent in Iraq](./assets/levi-meir-clancy-3ITXxnoNd-k-unsplash.jpg)[Levi Meir Clancy](https://unsplash.com/@levimeirclancy?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/refugee-camp?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
-Photo by <a href="https://unsplash.com/@levimeirclancy?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Levi Meir Clancy</a> on <a href="https://unsplash.com/s/photos/refugee-camp?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  
-  \[The children in a group photo\]
-  
-  Photo by <a href="https://unsplash.com/@larm?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Larm Rmah</a> on <a href="https://unsplash.com/s/photos/helping-people?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  
-  \[The refugee sign\]
+![The children in a group photo](./assets/larm-rmah-AEaTUnvneik-unsplash.jpg)[Larm Rmah](https://unsplash.com/@larm?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/helping-people?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
-  Photo by <a href="https://unsplash.com/@markusspiske?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Markus Spiske</a> on <a href="https://unsplash.com/s/photos/refugee?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  
+![The refugee sign](assets/markus-spiske-_NOKeOtMR-s-unsplash.jpg)[Markus Spiske](https://unsplash.com/@markusspiske?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)on [Unsplash](https://unsplash.com/s/photos/refugee?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
