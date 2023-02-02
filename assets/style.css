@@ -65,9 +65,12 @@ main .index-header button{
     cursor: pointer;
     animation:  moving-button 3s infinite both;
 }
+main .index-header button:hover{
+    animation-play-state: paused;
+}
 @keyframes moving-button{
     0%{
-        transform: rotate(0%, 0%);
+        transform: translate(0%, 0%);
     }
     50%{
         transform: translate(0%, 20%);
@@ -109,6 +112,7 @@ main .index-header button:hover{
     color: #23aa22;
 }
 .about-us-article{
+    color: #23aaff;
     display: flex;
     flex-direction: column;
     justify-content: center;
